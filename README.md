@@ -15,4 +15,6 @@
 Технологический стэк, которым хочу овладеть:
 1.  Python
 2.  Java-Script
-3.  Docker![76c2a668-9beb-4e15-a786-3f7908354bb3](https://user-images.githubusercontent.com/106560716/211403214-8ed1dd0a-fae4-47ea-9424-fae7d41f9120.JPG)
+3.  Docker
+
+![76c2a668-9beb-4e15-a786-3f7908354bb3](https://user-images.githubusercontent.com/106560716/211403214-8ed1dd0a-fae4-47ea-9424-fae7d41f9120.JPG)
